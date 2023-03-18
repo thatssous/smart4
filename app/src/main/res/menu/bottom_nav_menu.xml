@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Health"
+        android:icon="@drawable/heart"
+        android:id="@+id/health"/>
+    <item android:title="WebCam"
+        android:icon="@drawable/cam"
+        android:id="@+id/webcam"/>
+</menu>
